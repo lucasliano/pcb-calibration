@@ -190,31 +190,63 @@ DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBL
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBR1
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBR2
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBS
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GTL
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GTS
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GBR2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Free Documents\GerberX2\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\PCB.REP
 DItemRevisionGUID=
 
 [Configuration1]
